@@ -17,6 +17,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases)](https://github.com/AFeases/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases&layout=pie)](https://github.com/AFeases/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases&layout=donut-vertical)](https://github.com/AFeases/github-readme-stats)
 
 
 
