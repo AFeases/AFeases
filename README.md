@@ -22,6 +22,6 @@ How to contact me:
 ---
  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases&layout=donut-vertical)](https://github.com/AFeases/)
+
 
 </div>
