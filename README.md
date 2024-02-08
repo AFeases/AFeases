@@ -18,11 +18,31 @@ How to contact me:
 <br>
                                       
 ## **Learning:**
-![My Skills](https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstrap,&perline=3)
+![My Skills](
+https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstrap,&perline=3)
 ---
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases&layout=donut-vertical)](https://github.com/AFeases/)
+---
   
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AFeases&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AFeases&theme=dark&hide_border=false" /> 
+</td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AFeases&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 </div>
