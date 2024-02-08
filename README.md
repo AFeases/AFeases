@@ -46,3 +46,5 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 </table>
 
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AFeases" alt="akhilgkrishnan" /> </p>
