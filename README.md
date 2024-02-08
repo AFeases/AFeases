@@ -12,11 +12,10 @@
 
 <br>
                                       
-**Learning:**
-<br>
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,&perline=3)]
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AFeases&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+## **Learning:**
+![My Skills](https://skillicons.dev/icons?i=python,java,mysql,&perline=3)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
