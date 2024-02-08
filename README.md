@@ -13,7 +13,7 @@
 <br>
                                       
 ## **Learning:**
-![My Skills](https://skillicons.dev/icons?i=python,java,mysql,html,css,&perline=3)
+![My Skills](https://skillicons.dev/icons?i=python,java,mysql,html,css,bootstrap,&perline=3)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases)](https://github.com/AFeases)
 <br>github-readme-stats
