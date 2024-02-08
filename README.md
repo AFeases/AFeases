@@ -6,8 +6,8 @@
 - I like to program
 - Currently learning 
                                         
-<br><br>
----                                        
+<br>---<br>
+                                      
 **Learning:**
 <br>
 [![My Skills](https://skillicons.dev/icons?i=python,java,mysql,&perline=3)]
