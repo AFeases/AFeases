@@ -20,7 +20,8 @@ How to contact me:
 ## **Learning:**
 ![My Skills](https://skillicons.dev/icons?i=python,java,mysql,html,css,bootstrap,&perline=3)
 ---
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases&layout=donut-vertical)](https://github.com/AFeases/)
   
 
 
