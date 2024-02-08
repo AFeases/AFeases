@@ -15,7 +15,7 @@
 ## **Learning:**
 ![My Skills](https://skillicons.dev/icons?i=python,java,mysql,&perline=3)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases)](https://github.com/AFeases/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFeases)](https://github.com/AFeases)
 <br>github-readme-stats
 
 
