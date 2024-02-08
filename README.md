@@ -6,7 +6,9 @@
 - I like to program
 - Currently learning 
                                         
-<br>---<br>
+<br>
+---
+<br>
                                       
 **Learning:**
 <br>
