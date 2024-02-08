@@ -10,12 +10,7 @@
 
 **Learning:**
 [![My Skills](https://skillicons.dev/icons?i=python,java,mysql,&perline=3)](https://skillicons.dev)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=146471065" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=146471065&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Lines of Code Changes of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=146471065&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
 
 
