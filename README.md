@@ -55,7 +55,7 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 </table>
 <br><br>
 
-<picture><img src = "https://github.com/AFeases/DAM1/blob/main/img/Mar.jpeg"></picture>
+<picture><img src = "https://github.com/AFeases/AFeases/blob/main/img/Mar.jpeg"></picture>
 
 </div>
 
