@@ -43,7 +43,7 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AFeases&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+</td>
 </tr>
 </table>
 
