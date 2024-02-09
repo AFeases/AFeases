@@ -49,4 +49,4 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AFeases" alt="akhilgkrishnan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AFeases" alt="AFeases" /> </p>
