@@ -39,11 +39,11 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 <tr border="none">
 <td width="50%" align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFeases&include_all_commits&theme=dark&show_icons=true&count_private=true)](https://github.com/AFeases)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFeases&include_all_commits=true&theme=dark&show_icons=true&count_private=true)](https://github.com/AFeases)
   
   <br>
   
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AFeases streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AFeases&include_all_commits&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AFeases streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AFeases&include_all_commits=true&theme=dark&hide_border=false" /> 
   
 </td>
 <td width="50%" align="center">
