@@ -61,4 +61,4 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 
 <br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AFeases" alt="AFeases" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AFeases&color=blueviolet&abbreviated=true&style=plastic" alt="AFeases" /> </p>
