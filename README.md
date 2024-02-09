@@ -53,7 +53,6 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 </td>
 </tr>
 </table>
-
 </div>
 
 <br><br><br>
