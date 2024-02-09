@@ -23,8 +23,7 @@
 <br>
                                       
 ## **Learning:**
-![My Skills](
-https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstrap,&perline=3)
+![My Skills](https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstrap,&perline=3)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -38,8 +37,8 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFeases&include_all_commits=true&theme=dark&show_icons=true&count_private=true)](https://github.com/AFeases)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFeases&include_all_commits=true&theme=dark&show_icons=true&count_private=true&hide=contribs,prs)
   
   <br>
   
