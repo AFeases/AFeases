@@ -59,6 +59,11 @@ https://skillicons.dev/icons?i=python,java,cpp,github,mysql,md,html,css,bootstra
 
 </div>
 
+
 <br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AFeases&color=blueviolet&abbreviated=true&style=plastic" alt="AFeases" /> </p>
+<div align="left">
+
+![](https://komarev.com/ghpvc/?username=AFeases&color=blueviolet&abbreviated=true&style=plastic)
+
+</div>
